@@ -1,3 +1,24 @@
-# 03: Wired Access Point
+# Wired Access Point Configuration
 
-Configuration notes for converting a secondary router into a wired access point.
+## Objective
+
+Reuse the DBC router as an Access Point.
+
+---
+
+## Configuration
+
+- Disabled DHCP
+- Assigned static LAN IP
+- Connected LAN-to-LAN
+- Broadcast Wi-Fi
+
+---
+
+## Result
+
+- Full network speed
+- Stable connection
+- Reliable coverage
+
+This became the preferred networking solution.
